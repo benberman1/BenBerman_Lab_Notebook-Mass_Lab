@@ -9,7 +9,7 @@ Small fragments of corals no larger than 0.5 cm, in this case 4 from _Stylophora
 ### Results
 Successful incorperation of the CNF into coral tissues was observed through the fluorecence of the fluorecent dye under the microscope. Specific fluorecence lenses were applied to analyze the effect of the dye fluorecence under different wavelength colours. In each case, fluorence was present within the coral polyp.
 
-![CNFcoral1](images/CNF_0.5_dye_wf_CNF_0.5_dye_wf_RGB.png)
+![CNFcoral1](/Users/benberman/Documents/GitHub/BenBerman_Lab_Notebook-Mass_Lab/images/CNF_0.5_dye_wf_CNF_0.5_dye_wf_RGB.png)
 Figure 1: _Stylophora pistillata_ coral polyp with CNF and 0.5 dye visualized under white fluorecence using a Nikon Eclipse Ti-E inverted fluorescence microscope.
 
 ![CNFcoral2](/Users/benberman/Documents/GitHub/BenBerman_Lab_Notebook-Mass_Lab/images/CNF_0.5_dye_gfp_CNF_0.5_dye_gfp_RGB.png)
