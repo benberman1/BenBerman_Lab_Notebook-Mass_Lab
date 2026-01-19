@@ -27,7 +27,7 @@ Figure 5: _Stylophora pistillata_ coral polyp with CNF and 0.5 dye visualized mo
 ![CNFcoral6](../images/CNF_0.5_dye_dapi_X20_CNF_0.5_dye_dapi_X20_RGB.png)
 Figure 6: _Stylophora pistillata_ coral polyp with CNF and 0.5 dye visualized under dapi fluorecence using a Nikon Eclipse Ti-E inverted fluorescence microscope at x20 magnification.
 
-![CNFcoral7](../images/CNF_0.5_dye_dapi_X40_CNF_0.5 dye_dapi_X40_RGB.png)
+![CNFcoral7](../images/CNF_0.5_dye_dapi_X40_CNF_0.5_dye_dapi_X40_RGB.png)
 Figure 7: _Stylophora pistillata_ coral polyp with CNF and 0.5 dye visualized under dapi fluorecence using a Nikon Eclipse Ti-E inverted fluorescence microscope at x40 magnification.
 
 
