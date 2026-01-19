@@ -13,25 +13,31 @@ Successful incorperation of the CNF into coral tissues was observed through the 
 
 Figure 1: _Stylophora pistillata_ coral polyp with CNF and 0.5 dye visualized under white fluorecence using a Nikon Eclipse Ti-E inverted fluorescence microscope.
 
+
 ![CNFcoral2](../images/CNF_0.5_dye_gfp_CNF_0.5_dye_gfp_RGB.png)
 
 Figure 2: _Stylophora pistillata_ coral polyp with CNF and 0.5 dye visualized under green fluorescent protein (GFP) fluorecence using a Nikon Eclipse Ti-E inverted fluorescence microscope.
+
 
 ![CNFcoral3](../images/CNF_0.5_dye_chlo_CNF_0.5_dye_chlo_RGB.png)
 
 Figure 3: _Stylophora pistillata_ coral polyp with CNF and 0.5 dye visualized under chloroplast fluorecence using a Nikon Eclipse Ti-E inverted fluorescence microscope.
 
+
 ![CNFcoral4](../images/CNF_0.5_dye_dapi_1_CNF_0.5_dye_dapi_1_RGB.png)
 
 Figure 4: _Stylophora pistillata_ coral polyp with CNF and 0.5 dye visualized under dapi fluorecence using a Nikon Eclipse Ti-E inverted fluorescence microscope.
+
 
 ![CNFcoral5](../images/CNF_0.5_dye_dapi_CNF_0.5_dye_dapi_RGB.png)
 
 Figure 5: _Stylophora pistillata_ coral polyp with CNF and 0.5 dye visualized more enhanced under dapi fluorecence using a Nikon Eclipse Ti-E inverted fluorescence microscope.
 
+
 ![CNFcoral6](../images/CNF_0.5_dye_dapi_X20_CNF_0.5_dye_dapi_X20_RGB.png)
 
 Figure 6: _Stylophora pistillata_ coral polyp with CNF and 0.5 dye visualized under dapi fluorecence using a Nikon Eclipse Ti-E inverted fluorescence microscope at x20 magnification.
+
 
 ![CNFcoral7](../images/CNF_0.5_dye_dapi_X40_CNF_0.5_dye_dapi_X40_RGB.png)
 
