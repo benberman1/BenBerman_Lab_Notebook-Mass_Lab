@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 I am a first-year Master’s student in Marine Biology at The University of Haifa, conducting my Master's thesis project in the laboratory of Dr. Tali Mass. My research focuses on coral reefs, their endosymbiotic relationships, and remediating coral reefs affected by coral bleaching, a stress-inducing phenomenon associated with elevated ocean temperatures.
+
 ### More Information
 
 https://github.com/benberman1/
@@ -122,7 +123,7 @@ July 2021 – Aug 2021
 
 ## VOLUNTEER EXPERIENCE
 
-**Promotional Marketer (Volunteer Role)**  
+**Promotional Marketer**  
 *The CHEO Foundation*  
 Summer 2025  
 - Informed and engaged public by promoting healthcare initiatives.
@@ -168,4 +169,4 @@ Winter 2023
 ## REFERENCES
 
 Available upon request.
-
+
