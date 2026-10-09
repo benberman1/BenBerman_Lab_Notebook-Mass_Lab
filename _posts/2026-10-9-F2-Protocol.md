@@ -15,7 +15,7 @@ If this stock solution is already prepared, please proceed to the next step.
 **Table 1: F/2 Medium Trace Metal Stock Solution Ingredients**
 
 | Chemical Ingredient | Grams in 1 L of DDW | Chemical Substitution |
-|:---|---:|:---|
+|:---|:---|:---|
 | EDTA-Na₂ | 4.36 g|4.83 g of EDTA-Na₂+2H₂O|
 | FeCl₃·6H₂O |3.15| n/a |
 | CuSO₄·4H₂O | 0.01 | 0.01078 g of CuSO₄+5H₂O|
@@ -34,7 +34,7 @@ If this stock solution is already prepared, please proceed to the next step.
 **Table 2: F/2 Medium Vitamin Mix Stock Solution Ingredients**
 
 | Vitamin Component | Target Concentration in 1 L of DDW | Volume of Primary Stock Used | Cocentration of Primary Stock |
-|:---|---:|:---|---:|
+|:---|:---|:---|:---|
 | Cyanocobalamin (Vitamin B12) | 0.0005 g/L | 5 mL | 0.1 mg/mL |
 | Thiamine HCl (Vitamin B1) | 0.1 g/L | 5 mL | 20 mg/mL |
 | Biotin | 0.0005 g/L | 5 mL | 0.1 mg/mL |
@@ -57,7 +57,7 @@ If this solution is already prepared, please proceed to the next step.
 **Table 3: F/2 Medium Solution Components**
 
 | Ingredient | Ammount in 48 mL of FASW | Chemical Substitution |
-|:---|---:|:---|
+|:---|:---|:---|
 | NaNO₃ | 0.075 g | n/a |
 | NaH₂PO₄·2H₂O | 0.00565 g |  0.004997 g of NaH₂PO₄+H₂O |
 | Trace metal stock solution | 1 mL | n/a |
