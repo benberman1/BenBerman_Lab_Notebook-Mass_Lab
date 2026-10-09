@@ -23,6 +23,7 @@ If this stock solution is already prepared, please proceed to the next step.
 | CoCl₂·6H₂O | 0.01 | n/a |
 | MnCl₂·4H₂O | 0.18 | n/a |
 | Na₂MoO₄·2H₂O | 0.006 | n/a |
+
 *n/a = not applicable, no substitution made.
 
 **<u> 2. Vitamin Mix Stock Solution Preperation </u>**
@@ -62,6 +63,7 @@ If this solution is already prepared, please proceed to the next step.
 | NaH₂PO₄·2H₂O | 0.00565 g |  0.004997 g of NaH₂PO₄+H₂O |
 | Trace metal stock solution | 1 mL | n/a |
 | Vitamin stock solution | 1 mL | n/a |
+
 *n/a = not applicable, no substitution made.
 
 <u> Bibliography </u>
