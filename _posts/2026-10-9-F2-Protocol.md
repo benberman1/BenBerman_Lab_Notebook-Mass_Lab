@@ -7,8 +7,8 @@ The f/2 medium is a commonly used medium for the culturing and growing of marine
 
 ## Materials & Steps
 **<u> 1. Trace Metal Stock Solution Preperation </u>** 
-- In an Erlenmeyer Flask containing 1 L of double distilled water (DDW), place on a stir plate with a stir bar, add the components in Table 1 weighed to the appropriate mass. Some ingredients could not be obtained yet substitutions were possible with different hydrate concentrations yet maintaing concnetration of metal.
-- After all ingredients have been combined and dissolved, remove the stir bar from the flask, and pour the solution through a sterile 0.22 um filter in a sterilized 1 L media storage bottle sealed tightly. Perform this step in a sterilized chemical hood.
+- In an Erlenmeyer Flask containing 1 L of double distilled water (DDW), place on a stir plate with a stir bar, add the components in Table 1 weighed to the appropriate mass. Some ingredients could not be obtained and substitutions were performed with different hydrate concentrations yet metal concentration was maintained.
+- After all ingredients have been combined and dissolved, remove the stir bar from the flask, and pour the solution through a sterile 0.22 um filter in a sterilized 1 L media storage bottle and seal tightly. Perform this step in a sterilized chemical hood.
 
 If this stock solution is already prepared, please proceed to the next step.
 
@@ -25,8 +25,8 @@ If this stock solution is already prepared, please proceed to the next step.
 *n/a = not applicable, no substitution made.
 
 **<u> 2. Vitamin Mix Stock Solution Preperation </u>**
-- In an Erlenmeyer Flask containing 1 L of double distilled water (DDW), place on a stir plate with a stir bar, and add the components in Table 2 measured to the appropriate volumes.
-- After all ingredients are homogenized, remove the stir bar from the flask, and pour the solution through a sterile 0.22 um filter in a sterilized 1 L media storage bottle sealed tightly. Perform this step in a sterilized chemical hood.
+- In an Erlenmeyer Flask containing 1 L of DDW, place on a stir plate with a stir bar, and add the components in Table 2 measured to the appropriate volumes.
+- After all ingredients are homogenized, remove the stir bar from the flask, and pour the solution through a sterile 0.22 um filter in a sterilized 1 L media storage bottle and seal tightly. Perform this step in a sterilized chemical hood.
 
 If this stock solution is already prepared, please proceed to the next step.
 
@@ -38,17 +38,19 @@ If this stock solution is already prepared, please proceed to the next step.
 | Biotin | 0.0005 g/L | 5 mL | 0.1 mg/mL |
 
 **<u> 3. Filtered Artificial Sea Water (FASW) Preperation </u>**
-- In an Erlenmeyer Flask containing 1 L of double distilled water (DDW), place on a stir plate with a stir bar, add artificial sea salt mix (Red Sea Salt, Red Sea Ltd.) until a salinity between 38-40 has been reached.
+- In an Erlenmeyer Flask containing 1 L of DDW, place on a stir plate with a stir bar, add artificial sea salt mix (Red Sea Salt, Red Sea Ltd.) until a salinity between 38-40 has been reached.
 - After the sea salt mixed has fully dissolved, remove the stir bar from the flask, and pour the solution through a sterile 0.22 um filter in a sterilized 1 L media storage bottle sealed tightly. Perform this step in a sterilized chemical hood.
+
 If this solution is already prepared, please proceed to the next step.
 
 **<u> 4. F/2 Final Solution Preperation </u>**
 
-*The following steps should be carrie dout in a sterilized chemical hood.*
+*The following steps should be carried out in a sterilized chemical hood.*
 
 - In a sterilized 1 L media storage bottle, add 950 mL of FASW (which can be poured through another 0.22 um filter if further sterilization of the solution is required).
-- In an Erlenmeyer Flask, add 48 mL of FASW, the add the following chemical components in Table 3 and stock solutions using the appropriate masses and volumes. Mix the flask mannually, and all ingredients should dissolve.
-- After all ingredients are combined in the flask, pour the solution through a sterile 0.22 um filter into the sterilized 1 L media storage bottle containing 950 mL of FASW and seal tightly.
+- In an Erlenmeyer Flask, add 48 mL of FASW, then add the following chemical components in Table 3 and stock solutions using the appropriate masses and volumes. Mix the flask mannually, and all ingredients should dissolve.
+- After all ingredients are combined in the flask, pour the solution through a sterile 0.22 um filter into the sterilized 1 L media storage bottle containing 950 mL of FASW. 
+- Seal this bottle tightly and genlty shake to mix the contents of the bottle to combine both solutions into the final F/2 medium.
 
 **Table 3: F/2 Medium Solution Components**
 | Ingredient | Ammount in 48 mL of FASW | Chemical Substitution |
