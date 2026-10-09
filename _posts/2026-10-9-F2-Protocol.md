@@ -13,6 +13,7 @@ The f/2 medium is a commonly used medium for the culturing and growing of marine
 If this stock solution is already prepared, please proceed to the next step.
 
 **Table 1: F/2 Medium Trace Metal Stock Solution Ingredients**
+
 | Chemical Ingredient | Grams in 1 L of DDW | Chemical Substitution |
 |:---|---:|:---|
 | EDTA-Na₂ | 4.36 g|4.83 g of EDTA-Na₂+2H₂O|
@@ -31,6 +32,7 @@ If this stock solution is already prepared, please proceed to the next step.
 If this stock solution is already prepared, please proceed to the next step.
 
 **Table 2: F/2 Medium Vitamin Mix Stock Solution Ingredients**
+
 | Vitamin Component | Target Concentration in 1 L of DDW | Volume of Primary Stock Used | Cocentration of Primary Stock |
 |:---|---:|:---|---:|
 | Cyanocobalamin (Vitamin B12) | 0.0005 g/L | 5 mL | 0.1 mg/mL |
@@ -53,6 +55,7 @@ If this solution is already prepared, please proceed to the next step.
 - Seal this bottle tightly and genlty shake to mix the contents of the bottle to combine both solutions into the final F/2 medium.
 
 **Table 3: F/2 Medium Solution Components**
+
 | Ingredient | Ammount in 48 mL of FASW | Chemical Substitution |
 |:---|---:|:---|
 | NaNO₃ | 0.075 g | n/a |
@@ -62,5 +65,5 @@ If this solution is already prepared, please proceed to the next step.
 *n/a = not applicable, no substitution made.
 
 <u> Bibliography </u>
-- Guillard, R.R.L. (1975). Culture of Phytoplankton for Feeding Marine Invertebrates. In: Smith, W.L., Chanley, M.H. (eds) Culture of Marine Invertebrate Animals. Springer, Boston, MA. https://doi.org/10.1007/978-1-4615-8714-9_3
-- Guillard, R. R., & Ryther, J. H. (1962). Studies of marine planktonic diatoms. I. Cyclotella nana Hustedt, and Detonula confervacea (cleve) Gran. Canadian journal of microbiology, 8, 229–239. https://doi.org/10.1139/m62-029
+- Guillard, R.R.L. (1975). Culture of Phytoplankton for Feeding Marine Invertebrates. In: Smith, W.L., Chanley, M.H. (eds) Culture of Marine Invertebrate Animals. Springer, Boston, MA. [https://doi.org/10.1007/978-1-4615-8714-9_3](https://doi.org/10.1007/978-1-4615-8714-9_3)
+- Guillard, R. R., & Ryther, J. H. (1962). Studies of marine planktonic diatoms. I. Cyclotella nana Hustedt, and Detonula confervacea (cleve) Gran. Canadian journal of microbiology, 8, 229–239. [https://doi.org/10.1139/m62-029](https://doi.org/10.1139/m62-029)
