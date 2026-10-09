@@ -3,7 +3,7 @@
 
 ---
 
-The f/2 medium is a commonly used medium for the culturing and growing of marine algae. The original "f medium" was developed in Guillard and Ryther (1962), and was subsequently modifed in Guillard (1975) by reducing the conenctration of the original f medium to half, which was termed "f/2 medium".
+The f/2 medium is a commonly used medium for the culturing and growing of marine algae. The original "f medium" was developed in Guillard and Ryther (1962), and was subsequently modifed in Guillard (1975) by reducing the concentration of the original f medium to half, which was termed "f/2 medium".
 
 ## Materials & Steps
 **<u> 1. Trace Metal Stock Solution Preperation </u>** 
@@ -16,25 +16,25 @@ If this stock solution is already prepared, please proceed to the next step.
 
 | Chemical Ingredient | Grams in 1 L of DDW | Chemical Substitution |
 |:---|:---|:---|
-| EDTA-Na₂ | 4.36 g|4.83 g of EDTA-Na₂+2H₂O|
-| FeCl₃·6H₂O |3.15| n/a |
-| CuSO₄·4H₂O | 0.01 | 0.01078 g of CuSO₄+5H₂O|
-| ZnSO₄·H₂O | 0.022 | 0.03525 g of ZnSO₄+7H₂O |
-| CoCl₂·6H₂O | 0.01 | n/a |
-| MnCl₂·4H₂O | 0.18 | n/a |
-| Na₂MoO₄·2H₂O | 0.006 | n/a |
+| EDTA-Na₂ | 4.36 g|4.83 g of EDTA-Na₂·2H₂O|
+| FeCl₃·6H₂O |3.15 g| n/a |
+| CuSO₄·4H₂O | 0.01 g | 0.01078 g of CuSO₄·5H₂O|
+| ZnSO₄·H₂O | 0.022 g | 0.03525 g of ZnSO₄·7H₂O |
+| CoCl₂·6H₂O | 0.01 g | n/a |
+| MnCl₂·4H₂O | 0.18 g | n/a |
+| Na₂MoO₄·2H₂O | 0.006 g | n/a |
 
 *n/a = not applicable, no substitution made.
 
 **<u> 2. Vitamin Mix Stock Solution Preperation </u>**
-- In an Erlenmeyer Flask containing 1 L of DDW, place on a stir plate with a stir bar, and add the components in Table 2 measured to the appropriate volumes.
+- In an Erlenmeyer Flask containing 985 mL of DDW, place on a stir plate with a stir bar, and add the components in Table 2 measured to the appropriate volumes, obtaining a final solution volume of 1 L.
 - After all ingredients are homogenized, remove the stir bar from the flask, and pour the solution through a sterile 0.22 um filter in a sterilized 1 L media storage bottle and seal tightly. Perform this step in a sterilized chemical hood.
 
 If this stock solution is already prepared, please proceed to the next step.
 
 **Table 2: F/2 Medium Vitamin Mix Stock Solution Ingredients**
 
-| Vitamin Component | Target Concentration in 1 L of DDW | Volume of Primary Stock Used | Cocentration of Primary Stock |
+| Vitamin Component | Target Concentration in 1 L | Volume of Primary Stock Used | Concentration of Primary Stock |
 |:---|:---|:---|:---|
 | Cyanocobalamin (Vitamin B12) | 0.0005 g/L | 5 mL | 0.1 mg/mL |
 | Thiamine HCl (Vitamin B1) | 0.1 g/L | 5 mL | 20 mg/mL |
@@ -51,16 +51,16 @@ If this solution is already prepared, please proceed to the next step.
 *The following steps should be carried out in a sterilized chemical hood.*
 
 - In a sterilized 1 L media storage bottle, add 950 mL of FASW (which can be poured through another 0.22 um filter if further sterilization of the solution is required).
-- In an Erlenmeyer Flask, add 48 mL of FASW, then add the following chemical components in Table 3 and stock solutions using the appropriate masses and volumes. Mix the flask mannually, and all ingredients should dissolve.
+- In an Erlenmeyer Flask, add 48 mL of FASW, then add the following chemical components and stock solutions in Table 3 using the appropriate masses and volumes. Mix the flask mannually, and all ingredients should dissolve.
 - After all ingredients are combined in the flask, pour the solution through a sterile 0.22 um filter into the sterilized 1 L media storage bottle containing 950 mL of FASW. 
-- Seal this bottle tightly and genlty shake to mix the contents of the bottle to combine both solutions into the final F/2 medium.
+- Seal this bottle tightly and genlty shake to mix the contents of the bottle combining both solutions, producing 1 L of the final F/2 medium.
 
 **Table 3: F/2 Medium Solution Components**
 
-| Ingredient | Ammount in 48 mL of FASW | Chemical Substitution |
+| Ingredient | Amount in 48 mL of FASW | Chemical Substitution |
 |:---|:---|:---|
 | NaNO₃ | 0.075 g | n/a |
-| NaH₂PO₄·2H₂O | 0.00565 g |  0.004997 g of NaH₂PO₄+H₂O |
+| NaH₂PO₄·2H₂O | 0.00565 g |  0.004997 g of NaH₂PO₄·H₂O |
 | Trace metal stock solution | 1 mL | n/a |
 | Vitamin stock solution | 1 mL | n/a |
 
