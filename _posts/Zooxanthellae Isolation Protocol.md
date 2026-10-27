@@ -54,7 +54,8 @@ A total of 2 stock cultures were isolated and monitored daily using brightfield 
 **Culture 1 (least concentrated)**
 - Algae cells taken from top (diluted) of first algae stock solution.
 - 4 replicate cultures (200 uL algae, 20 mL F2) were produced, with one 20 mL F2 culture as negative control.
-- After 24 hours, 
+- No cells observed in 24 hour sample.
+- 
 
 **Culture 2 (medium concentrated)**
 - Survived 
